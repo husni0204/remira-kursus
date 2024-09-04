@@ -51,7 +51,7 @@ const HomePage = () => {
                     <Row>
                         <Col>
                             <h1 className='text-center fw-bold'>Kelas Terbaru</h1>
-                            <p className='text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p className='text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. REMMIRA STUDIO</p>
                         </Col>
                     </Row>
                     <Row>
