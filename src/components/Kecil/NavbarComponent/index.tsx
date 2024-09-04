@@ -26,7 +26,7 @@ const NavbarComponent = () => {
             <Navbar expand='lg' className={changeColor ? 'color-active' : ''}>
                 <Container>
                     <Navbar.Brand href='/' className='fs-3 fw-bold'>
-                        <img src='remira.png' width='100' height='100' className='d-inline-block align-top' alt='React Bootstrap logo' />
+                        <img src='remira.png' width='60' height='60' className='d-inline-block align-top' alt='React Bootstrap logo' />
                         {/* REMIRA */}
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls='basic-navbar-nav' />
