@@ -3,7 +3,8 @@ import { createRoot } from 'react-dom/client';
 import App from './App.tsx';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './dist/css/main.css';
+// import './dist/css/main.css';
+import '../src/dist/css/main.css';
 import 'animate.css';
 
 import AOS from 'aos';
